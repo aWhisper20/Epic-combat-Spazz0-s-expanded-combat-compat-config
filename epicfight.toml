@@ -1,0 +1,643 @@
+
+[custom_weaponry]
+
+	[custom_weaponry.iron_warhammer]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.8
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:iron_warhammer"
+
+	[custom_weaponry.golden_warhammer]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:golden_warhammer"
+
+	[custom_weaponry.netherite_warhammer]
+		armor_ignorance = 20.0
+		hit_at_once = 1
+		impact = 2.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:netherite_warhammer"
+
+	[custom_weaponry.wooden_warhammer]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:wooden_warhammer"
+
+	[custom_weaponry.diamond_warhammer]
+		armor_ignorance = 10.0
+		hit_at_once = 1
+		impact = 2.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:diamond_warhammer"
+
+	[custom_weaponry.sample]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "epicfight:registryname"
+
+	[custom_weaponry.stone_warhammer]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:stone_warhammer"
+		
+	[custom_weaponry.wooden_battleaxe]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:wooden_battleaxe"
+		
+	[custom_weaponry.stone_battleaxe]
+		armor_ignorance = 10.0
+		hit_at_once = 1
+		impact = 1.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:stone_battleaxe"
+		
+	[custom_weaponry.golden_battleaxe]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:golden_battleaxe"
+		
+	[custom_weaponry.iron_battleaxe]
+		armor_ignorance = 20.0
+		hit_at_once = 1
+		impact = 1.8
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:iron_battleaxe"
+		
+	[custom_weaponry.diamond_battleaxe]
+		armor_ignorance = 30.0
+		hit_at_once = 1
+		impact = 2.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:diamond_battleaxe"
+		
+	[custom_weaponry.netherite_battleaxe]
+		armor_ignorance = 40.0
+		hit_at_once = 1
+		impact = 2.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:netherite_battleaxe"
+		
+	[custom_weaponry.wooden_dagger]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:wooden_dagger"
+		
+	[custom_weaponry.stone_dagger]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:stone_dagger"
+		
+	[custom_weaponry.iron_dagger]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:iron_dagger"
+		
+	[custom_weaponry.golden_dagger]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:golden_dagger"
+		
+	[custom_weaponry.diamond_dagger]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:diamond_dagger"
+		
+	[custom_weaponry.netherite_dagger]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.8
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:netherite_dagger"
+		
+	[custom_weaponry.wooden_hatchet]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:wooden_hatchet"
+		
+	[custom_weaponry.stone_hatchet]
+		armor_ignorance = 5.0
+		hit_at_once = 1
+		impact = 1.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:stone_hatchet"
+		
+	[custom_weaponry.golden_hatchet]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:golden_hatchet"
+		
+	[custom_weaponry.iron_hatchet]
+		armor_ignorance = 10.0
+		hit_at_once = 1
+		impact = 1.8
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:iron_hatchet"
+		
+	[custom_weaponry.diamond_hatchet]
+		armor_ignorance = 15.0
+		hit_at_once = 1
+		impact = 2.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:diamond_hatchet"
+		
+	[custom_weaponry.netherite_hatchet]
+		armor_ignorance = 20.0
+		hit_at_once = 1
+		impact = 2.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:netherite_hatchet"
+		
+	[custom_weaponry.wooden_katana]
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		impact = 1.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "KATANA"
+		registry_name = "expandedcombat:wooden_katana"
+		
+		[custom_weaponry.stone_katana]
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		impact = 1.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "KATANA"
+		registry_name = "expandedcombat:stone_katana"
+		
+		[custom_weaponry.golden_katana]
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		impact = 1.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "KATANA"
+		registry_name = "expandedcombat:golden_katana"
+		
+		[custom_weaponry.iron_katana]
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "KATANA"
+		registry_name = "expandedcombat:iron_katana"
+		
+		[custom_weaponry.diamond_katana]
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		impact = 1.3
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "KATANA"
+		registry_name = "expandedcombat:diamond_katana"
+		
+		[custom_weaponry.netherite_katana]
+		armor_ignorance = 0.0
+		hit_at_once = 2
+		impact = 1.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "KATANA"
+		registry_name = "expandedcombat:netherite_katana"
+		
+	[custom_weaponry.wooden_sai]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:wooden_sai"
+		
+	[custom_weaponry.stone_sai]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:stone_sai"
+		
+	[custom_weaponry.iron_sai]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:iron_sai"
+		
+	[custom_weaponry.golden_sai]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:golden_sai"
+		
+	[custom_weaponry.diamond_sai]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:diamond_sai"
+		
+	[custom_weaponry.netherite_sai]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.8
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:netherite_sai"
+		
+	[custom_weaponry.wooden_chakram]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:wooden_chakram"
+		
+	[custom_weaponry.stone_chakram]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:stone_chakram"
+		
+	[custom_weaponry.iron_chakram]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:iron_chakram"
+		
+	[custom_weaponry.golden_chakram]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.0
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:golden_chakram"
+		
+	[custom_weaponry.diamond_chakram]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:diamond_chakram"
+		
+	[custom_weaponry.netherite_chakram]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.8
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SWORD"
+		registry_name = "expandedcombat:netherite_chakram"
+		
+	[custom_weaponry.wooden_staff]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 1.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:wooden_staff"
+		
+	[custom_weaponry.stone_staff]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 1.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:stone_staff"
+		
+	[custom_weaponry.golden_staff]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 1.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:golden_staff"
+		
+	[custom_weaponry.iron_staff]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 2.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:iron_staff"
+		
+	[custom_weaponry.diamond_staff]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 2.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:diamond_staff"
+		
+	[custom_weaponry.netherite_staff]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 3.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:netherite_staff"
+		
+	[custom_weaponry.wooden_spear]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 3.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:wooden_spear"
+		
+	[custom_weaponry.stone_spear]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 3.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:stone_spear"
+		
+	[custom_weaponry.golden_spear]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 3.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:golden_spear"
+		
+	[custom_weaponry.iron_spear]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 4.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:iron_spear"
+		
+	[custom_weaponry.diamond_spear]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 4.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:diamond_spear"
+		
+	[custom_weaponry.netherite_spear]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 5.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:netherite_spear"
+		
+	[custom_weaponry.wooden_halberd]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 4.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:wooden_halberd"
+		
+	[custom_weaponry.stone_halberd]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 4.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:stone_halberd"
+		
+	[custom_weaponry.golden_halberd]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 4.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:golden_halberd"
+		
+	[custom_weaponry.iron_halberd]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 5.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:iron_halberd"
+		
+	[custom_weaponry.diamond_halberd]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 5.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:diamond_halberd"
+		
+	[custom_weaponry.netherite_halberd]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 6.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:netherite_halberd"
+		
+	[custom_weaponry.wooden_boomerang]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:wooden_boomerang"
+		
+	[custom_weaponry.stone_boomerang]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:stone_boomerang"
+		
+	[custom_weaponry.golden_boomerang]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:golden_boomerang"
+		
+	[custom_weaponry.iron_boomerang]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 1.8
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:iron_boomerang"
+		
+	[custom_weaponry.diamond_boomerang]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 2.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:diamond_boomerang"
+		
+	[custom_weaponry.netherite_boomerang]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 2.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "AXE"
+		registry_name = "expandedcombat:netherite_boomerang"
+		
+	[custom_weaponry.musket_wooden_bayonet]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 0.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "FIST"
+		registry_name = "expandedcombat:musket_wooden_bayonet"
+		
+	[custom_weaponry.musket_stone_bayonet]
+		armor_ignorance = 6.0
+		hit_at_once = 1
+		impact = 0.2
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "FIST"
+		registry_name = "expandedcombat:musket_stone_bayonet"
+		
+	[custom_weaponry.musket_golden_bayonet]
+		armor_ignorance = 0.0
+		hit_at_once = 1
+		impact = 0.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "FIST"
+		registry_name = "expandedcombat:musket_golden_bayonet"
+		
+	[custom_weaponry.musket_iron_bayonet]
+		armor_ignorance = 12.0
+		hit_at_once = 1
+		impact = 0.3
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "FIST"
+		registry_name = "expandedcombat:musket_iron_bayonet"
+		
+	[custom_weaponry.musket_diamond_bayonet]
+		armor_ignorance = 18.0
+		hit_at_once = 1
+		impact = 0.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "FIST"
+		registry_name = "expandedcombat:musket_diamond_bayonet"
+		
+	[custom_weaponry.musket_netherite_bayonet]
+		armor_ignorance = 24.0
+		hit_at_once = 1
+		impact = 0.5
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "FIST"
+		registry_name = "expandedcombat:musket_netherite_bayonet"
+		
+	[custom_weaponry.wooden_scythe]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 2.4
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:wooden_scythe"
+		
+	[custom_weaponry.stone_scythe]
+		armor_ignorance = 10.0
+		hit_at_once = 4
+		impact = 2.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:stone_scythe"
+		
+	[custom_weaponry.golden_scythe]
+		armor_ignorance = 0.0
+		hit_at_once = 4
+		impact = 2.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:golden_scythe"
+		
+	[custom_weaponry.iron_scythe]
+		armor_ignorance = 20.0
+		hit_at_once = 4
+		impact = 3.1
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:iron_scythe"
+		
+	[custom_weaponry.diamond_scythe]
+		armor_ignorance = 30.0
+		hit_at_once = 4
+		impact = 3.6
+		#Allowed Values: AXE, FIST, HOE, PICKAXE, SHOVEL, SWORD, SPEAR, GREATSWORD, KATANA, BOW, CROSSBOW
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:diamond_scythe"
+		
+	[custom_weaponry.netherite_scythe]
+		armor_ignorance = 40.0
+		hit_at_once = 4
+		impact = 5.1
+		#CONFIG MADE BY A_WHISPER
+		weapon_type = "SPEAR"
+		registry_name = "expandedcombat:netherite_scythe"
+
+
+[custom_armor]
+
+	[custom_armor.sample]
+		stun_armor = 0.0
+		weight = 0.0
+		registry_name = "epicfight:registryname"
+
